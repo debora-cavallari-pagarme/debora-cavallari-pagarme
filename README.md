@@ -121,8 +121,8 @@
 <br />
 
 <p>
-  <a href="https://github.com/Myrnova" style="text-decoration: none;">
-    <img height="250" float="left" src="https://github-readme-stats.vercel.app/api?username=myrnova&show_icons=true&hide_border=true&theme=dracula"></img>
-    <img height="250" float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myrnova&hide_border=true&theme=dracula"></img>  
+  <a href="https://github.com/debora-cavallari-pagarme" style="text-decoration: none;">
+    <img height="250" float="left" src="https://github-readme-stats.vercel.app/api?username=debora-cavallari-pagarme&show_icons=true&hide_border=true&theme=dracula"></img>
+    <img height="250" float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debora-cavallari-pagarme&hide_border=true&theme=dracula"></img>  
   </a>
 </p>
